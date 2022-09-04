@@ -16,7 +16,7 @@ I'm Paul, a self-taught data analyst from Tucson, Arizona.
 **💡 Core Competencies 💡**
 
 - Tools: SQL, Python, Tableau, Excel
-- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
+- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Dashboard Design and Development
 
 **⚡️ Currently ⚡️**
 
