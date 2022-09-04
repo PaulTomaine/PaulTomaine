@@ -11,7 +11,7 @@ I'm Paul, a self-taught data analyst from Tucson, Arizona.
 
 **📚 Projects 📚**
 
-- Click HERE for my projects
+- Click **[HERE](https://github.com/PaulTomaine/Data-Portfolio/blob/main/README.md)** for my projects
 
 **💡 Core Competencies 💡**
 
